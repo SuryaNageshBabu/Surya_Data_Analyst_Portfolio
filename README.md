@@ -9,7 +9,7 @@ I have created this repository to showcase my skills and experience in the field
 **1. Portfolio projects**
    
 *SQL*
-- [International debt analysis](https://github.com/SuryaNageshBabu/International-debt-analysis-using-SQL/blob/main/README.md)
+- [Analysing international debt statistics](https://github.com/SuryaNageshBabu/International-debt-analysis-using-SQL/blob/main/README.md)
 
 *Python*
 - [PCOS prediction in women using Machine learning models](https://github.com/SuryaNageshBabu/PCOS-prediction-in-women-using-ML-models/blob/main/README.md)
@@ -30,9 +30,9 @@ I have created this repository to showcase my skills and experience in the field
 
 Here below I have briefly described the projects that I have worked on alongside the tech toolkit that were used during the process.
 
-### [International debt analysis](https://github.com/SuryaNageshBabu/International-debt-analysis-using-SQL/blob/main/README.md)
+### [Analyzing international debt statistics](https://github.com/SuryaNageshBabu/International-debt-analysis-using-SQL/blob/main/README.md)
 
-Short synopsis: 
+**Short synopsis**: In this project, the international debt data collected by the World Bank was used. The dataset contains information on the amount of debt owed by the countries. I have worked on this dataset with a primary focus of performing exploratory analysis by implementing various SQL aggregate, arithmetic functions and filtering techniques.
 
 
 
