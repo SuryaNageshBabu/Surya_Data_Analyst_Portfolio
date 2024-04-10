@@ -26,5 +26,14 @@ I have created this repository to showcase my skills and experience in the field
 
 ---
   
+## **Portfolio projects**
+
+Here below I have briefly described the projects that I have worked on alongside the tech toolkit that were used during the process.
+
+### [International debt analysis](https://github.com/SuryaNageshBabu/International-debt-analysis-using-SQL/blob/main/README.md)
+
+Short synopsis: 
+
+
 
   
