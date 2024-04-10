@@ -5,6 +5,7 @@ I have created this repository to showcase my skills and experience in the field
 
 ---
 
+
 ## Table of Contents
 **1. Portfolio projects**
    
@@ -24,11 +25,14 @@ I have created this repository to showcase my skills and experience in the field
 
 **3. Contact**
 
+
 ---
   
 ## **Portfolio projects**
 
 Here below I have briefly described the projects that I have worked on alongside the tech toolkit that were used during the process.
+
+
 
 ### [Analyzing international debt statistics](https://github.com/SuryaNageshBabu/International-debt-analysis-using-SQL/blob/main/README.md)
 
@@ -38,6 +42,7 @@ Here below I have briefly described the projects that I have worked on alongside
 ![techstack3](https://camo.githubusercontent.com/998382ebc9a32162128b00b597ea488192df024fd015e5edec001fe29fcb93a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465) 
 ![techstack4](https://camo.githubusercontent.com/b0dd0c2b3bbe007ae4eef1f59c17c24ce53a334ad46bfdb80b5c841eaeccdde3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61726b646f776e2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d61726b646f776e266c6f676f436f6c6f723d7768697465)
 
+---
 
 
   
