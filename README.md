@@ -38,7 +38,7 @@ Here below I have briefly described the projects that I have worked on alongside
 
 **Short synopsis**: In this project, the international debt data collected by the World Bank was used. The dataset contains information on the amount of debt owed by the countries. I have worked on this dataset with a primary focus of performing exploratory analysis by implementing various SQL aggregate, arithmetic functions and filtering techniques.
 
-**Skills**: Aggregate functions, Arithmetic operations, Filtering techniques, sub queries
+**Skills**: Aggregate functions, Arithmetic operations, Filtering techniques, Sub queries
 
 ![techstack1](https://camo.githubusercontent.com/9edf0a1d750cedbb64e89a53a8ec40a14a46abd81765059ef1285114cda0a282/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3431363945312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d506f737467726553514c266c6f676f436f6c6f723d7768697465)  ![techstack2](https://camo.githubusercontent.com/410d86e43f847d3f6e3027fa6f0c2fb7641d893fa601d863a943eac968c41890/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465) 
 ![techstack3](https://camo.githubusercontent.com/998382ebc9a32162128b00b597ea488192df024fd015e5edec001fe29fcb93a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465) 
