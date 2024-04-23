@@ -53,5 +53,7 @@ Here below I have briefly described the projects that I have worked on alongside
 
 ### [PhoneNow(Call centre) performance dashboard using Power BI](https://github.com/SuryaNageshBabu/PhoneNow-Call-centre-performance-dashboard-using-Power-BI/blob/main/README.md)
 
-**Short synopsis**: 
+**Short synopsis**: Creating an interactive dashboard for PhoneNow, a callcentre wanting to gain insights from the internal data that is available to them. The callcentre further wants an overview of long-term trends in customer and agent behaviour.
+
+**Skills**: Slicers and Tables, Transforming data, Power Query.
   
