@@ -48,4 +48,10 @@ Here below I have briefly described the projects that I have worked on alongside
 ### [PCOS prediction in women using Machine learning methods](https://github.com/SuryaNageshBabu/PCOS-prediction-in-women-using-ML-models)
 
 **Short synopsis**: In this project I have leveraged the potential of predictive analytics and machine learning algorithms to analyze and explore the relationship between biometric variables and have trained a machine learning model to learn the hidden patterns and further use them for predicting the presence of PCOS in individuals.
+
+---
+
+### [PhoneNow(Call centre) performance dashboard using Power BI](https://github.com/SuryaNageshBabu/PhoneNow-Call-centre-performance-dashboard-using-Power-BI/blob/main/README.md)
+
+**Short synopsis**: 
   
