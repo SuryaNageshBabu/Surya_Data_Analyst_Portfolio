@@ -16,10 +16,9 @@ I have created this repository to showcase my skills and experience in the field
 - [PCOS prediction in women using Machine learning models](https://github.com/SuryaNageshBabu/PCOS-prediction-in-women-using-ML-models/blob/main/README.md)
 
 *Viz*
-- [Underway, will be published soon](www.tobedecided.com)
+- [PhoneNow(Call centre) performance dashboard using Power BI](https://github.com/SuryaNageshBabu/PhoneNow-Call-centre-performance-dashboard-using-Power-BI/blob/main/README.md)
 
-*Microsoft Excel*
-- [Underway, will be published soon](www.tobedecided.com)
+
 
 **2. Certifications**
 
