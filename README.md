@@ -72,3 +72,12 @@ Here below I have briefly described the projects that I have worked on alongside
 ![techstack4](https://camo.githubusercontent.com/a0089bc3cb81a201fafb501952309feba97e5062e0bda984b24d5906670bba12/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f506f776572506f696e742d4237343732413f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d706f776572706f696e74266c6f676f436f6c6f723d7768697465)
 
 
+## Upskilling courses and Certification
+
+- [Datacamp Intermediate SQL](https://www.datacamp.com/statement-of-accomplishment/course/83a6bcda8a6d1f4ab08c9c93e289abab1ff4f15c?raw=1)
+- [Datacamp Introduction to Power BI](https://www.datacamp.com/statement-of-accomplishment/course/83f79d0cc59a8a9a531208fbba94d9a4d3b63662?raw=1)
+- [Datacamp Analyzing data in Tableau](https://www.datacamp.com/statement-of-accomplishment/course/55f7f61b44ba2305bba899dd657f73d8046d9a5d?raw=1)
+- [Datacamp Introduction to Pandas data cleaning](https://www.datacamp.com/statement-of-accomplishment/course/3423b1f11d1217b6c891364ae425229c2d9b7ac0?raw=1)
+- [Datacamp Understanding Data Engineering](https://www.datacamp.com/statement-of-accomplishment/course/41753df24f80ada26a397aec1188af557091f302?raw=1) 
+
+
