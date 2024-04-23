@@ -81,3 +81,7 @@ Here below I have briefly described the projects that I have worked on alongside
 - [Datacamp Understanding Data Engineering](https://www.datacamp.com/statement-of-accomplishment/course/41753df24f80ada26a397aec1188af557091f302?raw=1) 
 
 
+## Get in touch
+
+I am actively looking for Internship / Work student opportunities .Looking forward to contribute positively. You can reachout to me through [Linkedin]("www.linkedin.com/in/suryanageshbabu")
+
