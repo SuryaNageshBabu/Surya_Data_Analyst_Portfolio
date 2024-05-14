@@ -77,6 +77,9 @@ Here below I have briefly described the projects that I have worked on alongside
 
 **Short synopsis**: Following the callcentre's need to address the customer churn, I have created a dashboard refelcting the key metrics in relevance to the customers who have churned. And also with a focus on the performance of other products and services the company offers.
 
+![Customer churn demographics preview](https://github.com/SuryaNageshBabu/Customer-churn-dashboard---PhoneNow-Call-centre---PWC-/blob/main/Customer%20churn%20demographics_small.png) 
+![Customer services preview](https://github.com/SuryaNageshBabu/Customer-churn-dashboard---PhoneNow-Call-centre---PWC-/blob/main/Customer%20retention%20services_small.png)
+
 **Skills**: Data transformation, DAX, Custom visuals. 
 
 ![techstack1](https://camo.githubusercontent.com/ecef4c543198952452b882c5551593f6c6a7f1f4a2b304d61b0d79ce7cbf1bad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7765725f62692d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7765726269266c6f676f436f6c6f723d626c61636b)
