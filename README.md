@@ -97,7 +97,6 @@ Here below I have briefly described the projects that I have worked on alongside
 
 Having worked in this sector, I had a better understanding the different granular performance indicators based on which the daily operations of such stores are aligned. I have used this knowledge alongside the requisites of the use case in order to address the problem statement. 
 
-![Database ERD](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/Delivery_X%20ERD.png)
 ![Database Schema](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/Delivery_X%20Database%20Schema.png)
 ![Delivery_X Performance Dashboard](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/Delivery_X%20Performance%20Dashboard.png)
 
