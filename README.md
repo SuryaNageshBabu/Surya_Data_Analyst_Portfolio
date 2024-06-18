@@ -93,7 +93,7 @@ Here below I have briefly described the projects that I have worked on alongside
 
 ### [Delivery_X Database Design Implementation and Reporting](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/README.md)
 
-**Short synopsis**: This is a complete end to end database design and reporting project in which I have designed a database and have created a ad hoc dynamic dashboard that would in turn help Head of operations of the quick delivery service **Delivery_X** to address the growing customer complaint issues. And for the head of operations to quickly analyse the performance of all the stores across 2 different locations.
+**Short synopsis**: This is a complete end to end database design and reporting project in which I have designed a database and have created a ad hoc dynamic dashboard which would in turn help Head of operations of the quick delivery service **Delivery_X** to address the growing customer complaint issues. And for the head of operations to quickly analyse the performance of all the stores across 2 different locations.
 
 Having worked in this sector, I had a better understanding the different granular performance indicators based on which the daily operations of such stores are aligned. I have used this knowledge alongside the requisites of the use case in order to address the problem statement. 
 
